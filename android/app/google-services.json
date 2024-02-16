@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "72116443350",
+    "firebase_url": "https://cloudphoto-24d0d.firebaseapp.com",
+    "project_id": "cloudphoto-24d0d",
+    "storage_bucket": "cloudphoto-24d0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72116443350:web:83ea51fd488239e1121177",
+        "android_client_info": {
+          "package_name": "com.photo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAydbToGc4nVbaZXbf5-S9cXwn9TfznMG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
